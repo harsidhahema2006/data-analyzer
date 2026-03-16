@@ -1,0 +1,42 @@
+{
+    "er123": {
+        "name": "er",
+        "dob": "2021-02-02",
+        "gender": "male",
+        "phone": "9443346124",
+        "password": "e35622e8e05879081d7b50822c294671dbfcb4d25953ae688c12093700613bb2",
+        "role": "citizen"
+    },
+    "war123": {
+        "name": "war",
+        "dob": "2022-02-15",
+        "gender": "male",
+        "phone": "9443346124",
+        "password": "8946888292a0d6f3b1720f2c5108948bba4efdd2746f90c465eef30808c7bf86",
+        "role": "citizen"
+    },
+    "Admin123": {
+        "name": "Head Administrator",
+        "dob": "01-01-1970",
+        "gender": "Other",
+        "phone": "0000000000",
+        "password": "3b612c75a7b5048a435fb6ec81e52ff92d6d795a8b5a9c17070f6a63c97a53b2",
+        "role": "admin"
+    },
+    "tester_1773637359": {
+        "name": "Test User",
+        "dob": "1990-01-01",
+        "gender": "male",
+        "phone": "9876543210",
+        "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+        "role": "citizen"
+    },
+    "234": {
+        "name": "23",
+        "dob": "2024-02-05",
+        "gender": "male",
+        "phone": "9442855397",
+        "password": "114bd151f8fb0c58642d2170da4ae7d7c57977260ac2cc8905306cab6b2acabc",
+        "role": "citizen"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "BirthCertificates": [
+        {
+            "id": "52f75b63-a34a-4b5d-b0f3-2ca06c74e9f3",
+            "citizen_name": "er",
+            "citizen_dob": "02-03-2020",
+            "citizen_phone": "+91-9443346124",
+            "node": "Identity Node",
+            "document_type": "Birth Certificate",
+            "encrypted_file": "storage\\Identity Node_Birth Certificate_63062",
+            "blockchain_hash": "528e55f41e1327c3",
+            "timestamp": "2026-03-16T11:34:57.855000",
+            "name": "Birth Certificate",
+            "department": "Identity Node",
+            "pqc_hash": "01171f7350020c4f",
+            "hsm_enclave_id": "HSM-4333"
+        },
+        {
+            "id": "f9e38b07-558c-4289-8954-467f623011ac",
+            "citizen_name": "er",
+            "citizen_dob": "02-03-2021",
+            "citizen_phone": "9443346124",
+            "node": "Identity Node",
+            "document_type": "Birth Certificate",
+            "encrypted_file": "storage\\Identity Node_Birth Certificate_63062",
+            "blockchain_hash": "340df27d4ad675a8",
+            "timestamp": "2026-03-16T13:17:45.043128",
+            "name": "Birth Certificate",
+            "department": "Identity Node",
+            "pqc_hash": "1d48ccb657a00b4e",
+            "hsm_enclave_id": "HSM-4858"
+        },
+        {
+            "id": "a1ab9813-1dd8-4413-a7e3-cede68c9bf5c",
+            "citizen_name": "abc",
+            "citizen_dob": "01-02-2010",
+            "citizen_phone": "6374426809",
+            "node": "Identity Node",
+            "document_type": "Birth Certificate",
+            "encrypted_file": "storage\\Identity_Node_Birth_Certificate_8050",
+            "blockchain_hash": "1227ee6d4c820596",
+            "timestamp": "2026-03-16T21:36:14.014407",
+            "name": "Birth Certificate",
+            "department": "Identity Node",
+            "pqc_hash": "cb36b637281b58ad",
+            "hsm_enclave_id": "HSM-8009"
+        }
+    ],
+    "AadhaarCards": [
+        {
+            "id": "b68fafb5-b7f5-48af-b016-4635fc01f2bb",
+            "citizen_name": "Harish",
+            "citizen_dob": "10-10-1995",
+            "citizen_phone": "9876543210",
+            "node": "Identity Node",
+            "document_type": "Aadhaar Card",
+            "encrypted_file": "storage/identity_aadhaar_mock",
+            "blockchain_hash": "6aba914e368af46e",
+            "timestamp": "2026-03-16T11:16:49.289578",
+            "name": "Aadhaar Card",
+            "department": "Identity Node",
+            "pqc_hash": "7bd51687d629313b",
+            "hsm_enclave_id": "HSM-9414"
+        },
+        {
+            "id": "48d38abc-fa53-464a-8454-c89438b5efb7",
+            "citizen_name": "abc",
+            "citizen_dob": "01-02-2010",
+            "citizen_phone": "6374426809",
+            "node": "Identity Node",
+            "document_type": "Aadhaar Card",
+            "encrypted_file": "storage\\Identity_Node_Aadhaar_Card_121676",
+            "blockchain_hash": "905b8caa755b2208",
+            "timestamp": "2026-03-16T21:35:19.665082",
+            "name": "Aadhaar Card",
+            "department": "Identity Node",
+            "pqc_hash": "e4e961fae2b3c5ff",
+            "hsm_enclave_id": "HSM-3201"
+        }
+    ],
+    "Generic": [
+        {
+            "id": "id-1",
+            "name": "Aadhaar / National ID",
+            "department": "Identity Node",
+            "hash": "sha3_pqc_1"
+        },
+        {
+            "id": "id-2",
+            "name": "Birth Certificate",
+            "department": "Identity Node",
+            "hash": "sha3_pqc_2"
+        },
+        {
+            "id": "b3644516-8d3a-49ca-a070-1b01af2796ca",
+            "name": "Aadhaar Card",
+            "department": "Identity Node",
+            "citizen_name": "war",
+            "citizen_phone": "9443346124",
+            "citizen_dob": "02-03-2020",
+            "hash": "b510a919e67e6afed8790617712fc12eade3e665fb7345041cf7669527da296b",
+            "filename": "CertificateOfCompletion_MongoDB Essential Training.pdf",
+            "storage_path": "storage\\Identity Node_Aadhaar Card_63062"
+        }
+    ]
+}

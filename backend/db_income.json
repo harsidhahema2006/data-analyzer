@@ -1,0 +1,50 @@
+{
+    "PANCards": [
+        {
+            "id": "44eba124-f686-4263-99e3-8332f62944c2",
+            "citizen_name": "abc",
+            "citizen_dob": "01-02-2010",
+            "citizen_phone": "6374426809",
+            "node": "Income Node",
+            "document_type": "PAN Card",
+            "encrypted_file": "storage\\Income_Node_PAN_Card_7743",
+            "blockchain_hash": "6a90ca3a388a3f8a",
+            "timestamp": "2026-03-16T21:37:06.961779",
+            "name": "PAN Card",
+            "department": "Income Node",
+            "pqc_hash": "a412dfb6aa994c53",
+            "hsm_enclave_id": "HSM-7011"
+        }
+    ],
+    "TaxCertificates": [
+        {
+            "id": "cfa2cfa9-4167-4dbc-ac78-f3ff9b2ba9bc",
+            "citizen_name": "abc",
+            "citizen_dob": "01-02-2010",
+            "citizen_phone": "6374426809",
+            "node": "Income Node",
+            "document_type": "Tax Certificate",
+            "encrypted_file": "storage\\Income_Node_Tax_Certificate_5936",
+            "blockchain_hash": "a34804f9e1a5a526",
+            "timestamp": "2026-03-16T21:37:48.715014",
+            "name": "Tax Certificate",
+            "department": "Income Node",
+            "pqc_hash": "670b175d6527e35a",
+            "hsm_enclave_id": "HSM-9312"
+        }
+    ],
+    "Generic": [
+        {
+            "id": "inc-template-1",
+            "name": "PAN Card",
+            "department": "Income Node",
+            "hash": "sha3_pqc_pan_tpl"
+        },
+        {
+            "id": "inc-template-2",
+            "name": "Tax Certificate",
+            "department": "Income Node",
+            "hash": "sha3_pqc_tax_tpl"
+        }
+    ]
+}

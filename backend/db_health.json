@@ -1,0 +1,27 @@
+{
+    "HealthRecords": [
+        {
+            "id": "489babdf-770e-4b15-b429-5f786cce3811",
+            "citizen_name": "abc",
+            "citizen_dob": "01-02-2010",
+            "citizen_phone": "6374426809",
+            "node": "Health Node",
+            "document_type": "Health Records",
+            "encrypted_file": "storage\\Health_Node_Health_Records_10593",
+            "blockchain_hash": "43ea35a479ab26b6",
+            "timestamp": "2026-03-16T21:38:36.863411",
+            "name": "Health Records",
+            "department": "Health Node",
+            "pqc_hash": "daf0b62c005c803c",
+            "hsm_enclave_id": "HSM-3193"
+        }
+    ],
+    "Generic": [
+        {
+            "id": "health-template-1",
+            "name": "Health Records",
+            "department": "Health Node",
+            "hash": "sha3_pqc_health_tpl"
+        }
+    ]
+}

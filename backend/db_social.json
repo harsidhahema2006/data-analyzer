@@ -1,0 +1,27 @@
+{
+    "SocialSubsidies": [
+        {
+            "id": "f6a95a5f-eda8-4bb8-9ecd-bee2148cf1c4",
+            "citizen_name": "abc",
+            "citizen_dob": "01-02-2010",
+            "citizen_phone": "6374426809",
+            "node": "Social Node",
+            "document_type": "Social Subsidies",
+            "encrypted_file": "storage\\Social_Node_Social_Subsidies_9629",
+            "blockchain_hash": "448cc7a2bb8ae5d3",
+            "timestamp": "2026-03-16T21:39:25.691977",
+            "name": "Social Subsidies",
+            "department": "Social Node",
+            "pqc_hash": "81b9a5d6918dae89",
+            "hsm_enclave_id": "HSM-4550"
+        }
+    ],
+    "Generic": [
+        {
+            "id": "social-template-1",
+            "name": "Social Subsidies",
+            "department": "Social Node",
+            "hash": "sha3_pqc_social_tpl"
+        }
+    ]
+}
