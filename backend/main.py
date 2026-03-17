@@ -254,4 +254,6 @@ async def secure_fetch_document(doc_id: str, current_user_username: str = Depend
 @app.get("/system/health")
 async def system_health():
     return resilience.get_system_health()
-
+@app.get("/")
+def root():
+    return {"message": "System Running"}
